@@ -1,0 +1,43 @@
+
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    flex: 0.35;
+    background-color: #F3F3F3;
+
+}
+
+.class1{
+    margin-top: 4rem;
+}
+
+.logo_with_title{
+    display: flex;
+    flex-direction: row;
+}
+
+.header_title{
+    padding-top: 0.8rem;
+    margin-left: -2rem;
+}
+
+.vertical_navbar{
+    display: flex;
+    flex-direction: column;
+}
+.row-wise{
+    display: flex;
+    flex-direction: row;
+    margin-left: 2rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+}
+
+.hori_line{
+    margin-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.text_span{
+    margin-left: 1rem;
+}
