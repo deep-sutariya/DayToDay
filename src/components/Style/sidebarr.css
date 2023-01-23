@@ -1,0 +1,66 @@
+.sidebar{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20%;
+    background-color: #F3F3F3;
+}
+
+.logo_with_title{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.logo_with_title .img_logo{
+    height: 120px;
+    max-width: 115px;
+    flex: 0.5;
+}
+.header_title{
+    flex: 0.5;
+}
+
+.vertical_navbar{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 45px;
+}
+
+.row-wise{
+    margin-left: 30px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in;
+}
+
+.row-wise .img_logo{
+    object-fit: cover;
+    max-height: 30px;
+    max-width: 30px;
+}
+.row-wise:nth-child(4) .img_logo{
+    height: 27px;
+}
+
+.logout img{
+    height: 25px;
+    max-width: 30px;
+}
+
+.logout{
+    margin-bottom: 150px;
+}
+
+.row-wise:hover{
+    transform: scale(1.08);
+    color: #FF5C28;
+    font-weight: bold;
+    
+}
