@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .App {
   text-align: center;
 }
@@ -29,10 +30,42 @@
 }
 
 @keyframes App-logo-spin {
+=======
+.app {
+  height: 100vh;
+  width: 100%;
+}
+
+.app_body{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  flex-direction: row;
+}
+
+
+
+/* KeyFrames */
+
+/* @keyframes App-logo-spin {
+>>>>>>> fdcea4aa6eeba007a341cca0fdd2afc509e07e7a
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
+<<<<<<< HEAD
 }
+=======
+} */
+
+
+/* Media Queries */
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+>>>>>>> fdcea4aa6eeba007a341cca0fdd2afc509e07e7a
