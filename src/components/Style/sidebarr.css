@@ -2,7 +2,6 @@
     height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     width: 20%;
     background-color: #F3F3F3;
 }
@@ -17,13 +16,11 @@
 .logo_with_title .img_logo{
     height: 120px;
     max-width: 115px;
-    flex: 0.5;
-}
-.header_title{
-    flex: 0.5;
 }
 
+
 .vertical_navbar{
+    height: 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -55,7 +52,9 @@
 }
 
 .logout{
-    margin-bottom: 150px;
+    margin-top: 40px;
+    margin-bottom: 110px;
+    align-items: center;
 }
 
 .row-wise:hover{
