@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-=======
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
->>>>>>> fdcea4aa6eeba007a341cca0fdd2afc509e07e7a
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -14,24 +11,4 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-<<<<<<< HEAD
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
-
-.app_body{
-  display: flex;
-  border: 25px;
-  border: 4px solid #F78024;
-  margin-top: 5rem;
-  margin-left: 2rem;
-  margin-right: 3rem;
-  padding: 1rem; 
-}
-=======
-}
->>>>>>> fdcea4aa6eeba007a341cca0fdd2afc509e07e7a

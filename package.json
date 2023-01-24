@@ -13,11 +13,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
-<<<<<<< HEAD
-    "react-scripts": "5.0.1",
-=======
     "react-scripts": "^5.0.1",
->>>>>>> fdcea4aa6eeba007a341cca0fdd2afc509e07e7a
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -43,14 +39,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
-  }
-=======
   },
   "description": "",
   "main": "index.js",
   "devDependencies": {},
   "author": "",
   "license": "ISC"
->>>>>>> fdcea4aa6eeba007a341cca0fdd2afc509e07e7a
 }
