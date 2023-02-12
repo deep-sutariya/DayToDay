@@ -1,0 +1,14 @@
+.homemain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.homeheading{
+    margin: 20px auto;
+}
+.components{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    width: 100%;
+    height: 89.5vh;
+}
