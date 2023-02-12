@@ -11,6 +11,13 @@ function Main() {
         <img className='img_logo' src={search} alt='DayToDay' />
         <input placeholder='Search here...'></input>
       </div>
+
+    {/* <div className='row-wise'>
+    <div className='quote-box'>
+            Quote Related Card
+      </div>
+    </div> */}
+     
         
     </div>
   )
